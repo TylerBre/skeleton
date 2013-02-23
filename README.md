@@ -8,6 +8,6 @@ A basic starting point for crafting websites. Includes the HTML5 Boilerplate via
 * [Bower](https://github.com/twitter/bower) `sudo npm install bower -g`
 * [RequireJS](http://requirejs.org/) `sudo npm install requirejs -g`
 * A LESS compiler. I recommend either: 
-  1. [CodeKit](http://incident57.com/codekit/)
-  2. [less.app](http://incident57.com/less/)
+  1. [CodeKit](http://incident57.com/codekit/) (OS X only)
+  2. [less.app](http://incident57.com/less/) (free, OS X only)
   3. [ReadyMade](http://fulmicoton.com/readymade/) (requires node.js, but you already have that now :P)
