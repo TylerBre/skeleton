@@ -1,6 +1,6 @@
 # Skeleton
 
-A basic starting point for crafting websites. Included as standard is the HTML5 Boilerplate, LESS, and lesshat, a comprehensive LESS mixin library. Bower is used to manage JS components, with presets defined for loading in jQuery, modernizr, backbone, and underscore. Require.js is used to load in JS modules.
+A basic starting point for crafting websites. It is based on the HTML5 Boilerplate, and uses LESS to process css. Bower is used to manage JS components, with presets defined for loading in jQuery, modernizr, backbone, and underscore. Require.js is used to load in JS modules.
 
 ## Requirements
 
