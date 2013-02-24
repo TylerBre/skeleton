@@ -1,13 +1,7 @@
 ({
-    appDir: '../',
-    baseUrl: 'scripts',
+    appDir: './',
+    baseUrl: './',
     dir: '../../build',
-    mainConfigFile: '../scripts/main.js',
-    name: 'main',
-    paths: {
-        // "modernizr": "vendor/modernizr/modernizr",
-        "jquery": "vendor/jquery/jquery",
-        "underscore": "vendor/underscore-amd/underscore",
-        "backbone": "vendor/backbone-amd/backbone"
-    }
+    mainConfigFile: './main.js',
+    name: 'main'
 })
