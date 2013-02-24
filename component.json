@@ -5,7 +5,7 @@
         "requirejs": null,
         "jquery": null,
         "modernizr": "git+https://github.com/Iristyle/bower-modernizr.git",
-        // "backbone-amd": null,
-        // "underscore-amd": null
+        "backbone-amd": null,
+        "underscore-amd": null
     }
 }
