@@ -10,4 +10,4 @@ A basic starting point for crafting websites. Includes the HTML5 Boilerplate via
 * A LESS compiler. I recommend either: 
   1. [CodeKit](http://incident57.com/codekit/) (OS X only)
   2. [less.app](http://incident57.com/less/) (free, OS X only)
-  3. [ReadyMade](http://fulmicoton.com/readymade/) (requires node.js, but you already have that now :P)
+  3. [ReadyMade](http://fulmicoton.com/readymade/) `sudo npm install readymade -g` (requires node.js, but you already have that now :P)
