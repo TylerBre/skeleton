@@ -14,6 +14,6 @@ A basic starting point for crafting websites. Included as standard is the HTML5 
 
 ## Installing dependancies and building
 
-The framework needs to be built, so in order to do that, you need to install the dependancies with `bower install`. You can change which components to load in by altering the `component.json` file. After the dependancies are satisified, you can open up the index.html file in the `app` directory and begin coding.
+The framework needs to be built, so in order to do that, you need to install the dependancies with `bower install`. You can change which components to load in by altering the `component.json` file. For a complete list of Bower Components, [see here](http://sindresorhus.com/bower-components/) After the dependancies are satisified, you can open up the index.html file in the `app` directory and begin coding.
 
-To build your app for production, `cd ../app` and run `. build.sh`. You may need to make the build script executable, in which case you would need to `chmod +x build.sh`.
+To package your application for production, `cd ../app` and run `. build.sh`. You may need to make the build script executable, in which case you would need to `chmod +x build.sh`.
